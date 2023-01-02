@@ -8,15 +8,7 @@ Um projeto amostra para apresentar tecnologias e modelagem de dados
 ### Modelo Concentual
 ![Modelo](src/main/resources/img/Modelo_conceitual.png)
 
-[![name](https://projects.spring.io/spring-boot/)](src/main/resources/img/img_logos/Spring.png)
-
-[<img alt="Java" width: "80px" src="src/main/resources/img/img_logos/Java.svg" />](https://dev.java/)
-
-[<a target="_blank"><img alt="Java" width: "80px" src="src/main/resources/img/img_logos/Java.svg" /></a>](https://dev.java/)
-
-[<img alt="Java" height: "100px" src="src/main/resources/img/img_logos/Java.svg" />](https://dev.java/)
-
-[<img alt="Java" height: "100px" src="src/main/resources/img/img_logos/Java.svg" />](https://dev.java/)
+[<img alt="Java" width="40px" src="src/main/resources/img/img_logos/Java.svg" />](https://dev.java/)
 
 ### Diagrama de Objetos
 ![Modelo](src/main/resources/img/Diagrama_objetos.PNG)
