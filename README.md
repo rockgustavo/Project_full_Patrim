@@ -1,8 +1,16 @@
-# Projeto Patrimônio
-Um projeto para expor tecnologias e modelagem de dados
+# Projeto Full Stack Patrimônio
+Um projeto amostra para apresentar tecnologias e modelagem de dados
+
+## Back-End:
+
+## Front-End:
 
 ### Modelo Concentual
 ![Modelo](src/main/resources/img/Modelo_conceitual.png)
+
+[![name](https://projects.spring.io/spring-boot/)](src/main/resources/img/img_logos/Spring.png)
+
+[<img alt="Java" width="40px" src="src/main/resources/img/img_logos/Java.svg" />](https://dev.java/)
 
 ### Diagrama de Objetos
 ![Modelo](src/main/resources/img/Diagrama_objetos.PNG)
