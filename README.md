@@ -1,18 +1,20 @@
 # Projeto Full Stack Patrimônio
 Um projeto amostra para apresentar tecnologias e modelagem de dados
 
-## Back-End:
-
-## Front-End:
-
-### Modelo Concentual
 ![Modelo](src/main/resources/img/Tecnologias.PNG)
 
-[<img alt="Java" width="40px" src="src/main/resources/img/Tecnologias.PNG" />](https://dev.java/)
 
-[<img alt="Java" width="80px" src="src/main/resources/img/Tecnologias.PNG" />](https://dev.java/)
+[<img alt="Java" width="100%" src="src/main/resources/img/Controle_patrimonial.PNG" />](http://rockgustavo.com.s3-website-us-east-1.amazonaws.com/)
 
-[<img alt="Java" width="100px" src="src/main/resources/img/Tecnologias.PNG" />](https://dev.java/)
+[<img alt="Java" width="500px" src="src/main/resources/img/Controle_patrimonial.PNG" />](http://rockgustavo.com.s3-website-us-east-1.amazonaws.com/)
+
+[<img alt="Java" width="800px" src="src/main/resources/img/Controle_patrimonial.PNG" />](http://rockgustavo.com.s3-website-us-east-1.amazonaws.com/)
+
+[<img alt="Java" width="500px" src="src/main/resources/img/Swagger.PNG" />](http://107.21.11.22:8080/swagger-ui/index.html)
+
+
+### Modelo Concentual
+![Modelo](src/main/resources/img/Modelo_conceitual.png)
 
 ### Diagrama de Objetos
 ![Modelo](src/main/resources/img/Diagrama_objetos.PNG)
