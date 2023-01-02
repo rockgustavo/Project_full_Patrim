@@ -6,15 +6,13 @@ Um projeto amostra para apresentar tecnologias e modelagem de dados
 ## Front-End:
 
 ### Modelo Concentual
-![Modelo](src/main/resources/img/Modelo_conceitual.png)
+![Modelo](src/main/resources/img/Tecnologias.PNG)
 
-[<img alt="Java" width="40px" src="src/main/resources/img/img_logos/Java.svg" />](https://dev.java/)
+[<img alt="Java" width="40px" src="src/main/resources/img/Tecnologias.PNG" />](https://dev.java/)
 
-![<img alt="Java" width="80px" src="src/main/resources/img/img_logos/Java.svg" />](https://dev.java/)
+[<img alt="Java" width="80px" src="src/main/resources/img/Tecnologias.PNG" />](https://dev.java/)
 
-![<img alt="Java" width="100px" src="src/main/resources/img/img_logos/Java.svg" />](https://dev.java/)
-
-![<img alt="Java" width="100px" src="src/main/resources/img/img_logos/Java.svg" /> (!) <img alt="Java" width="100px" src="src/main/resources/img/img_logos/Java.svg" /> ](https://dev.java/)
+[<img alt="Java" width="100px" src="src/main/resources/img/Tecnologias.PNG" />](https://dev.java/)
 
 ### Diagrama de Objetos
 ![Modelo](src/main/resources/img/Diagrama_objetos.PNG)
