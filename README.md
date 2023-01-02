@@ -4,13 +4,11 @@ Um projeto amostra para apresentar tecnologias e modelagem de dados
 ![Modelo](src/main/resources/img/Tecnologias.PNG)
 
 
-[<img alt="Java" width="100%" src="src/main/resources/img/Controle_patrimonial.PNG" />](http://rockgustavo.com.s3-website-us-east-1.amazonaws.com/)
+[<img alt="Java" width="300px" src="src/main/resources/img/Controle_patrimonial.PNG" />](http://rockgustavo.com.s3-website-us-east-1.amazonaws.com/)
 
-[<img alt="Java" width="500px" src="src/main/resources/img/Controle_patrimonial.PNG" />](http://rockgustavo.com.s3-website-us-east-1.amazonaws.com/)
+[<img alt="Java" width="400px" src="src/main/resources/img/Controle_patrimonial.PNG" />](http://rockgustavo.com.s3-website-us-east-1.amazonaws.com/)
 
-[<img alt="Java" width="800px" src="src/main/resources/img/Controle_patrimonial.PNG" />](http://rockgustavo.com.s3-website-us-east-1.amazonaws.com/)
-
-[<img alt="Java" width="500px" src="src/main/resources/img/Swagger.PNG" />](http://107.21.11.22:8080/swagger-ui/index.html)
+[<img alt="Java" width="300px" src="src/main/resources/img/Swagger.PNG" />](http://107.21.11.22:8080/swagger-ui/index.html)
 
 
 ### Modelo Concentual
