@@ -12,7 +12,7 @@ Um projeto amostra para apresentar tecnologias e modelagem de dados
 ### A regra de negócio
 A necessidade de controle patrimonial de uma empresa, ou entidade privada, se faz necessário como um módulo administrativo que interage seus dados com outros módulos, como o controle de funcionários e a contabilidade. 
 A entrada de um bem é feita por um código único que elencará os dados do item como sua carga patrimonial e a quem pertence este item.
-Futuros relatórios ou balanços podem ser gerados com estas informações salvas em uma base de dados.
+Futuros relatórios ou balanços podem ser gerados com estas informações salvas em um base de dados.
 
 ### Modelo Concentual
 ![Modelo](src/main/resources/img/Modelo_conceitual.png)
@@ -21,8 +21,8 @@ Futuros relatórios ou balanços podem ser gerados com estas informações salva
 ![Modelo](src/main/resources/img/Diagrama_objetos.PNG)
 
 ## Desenvolvimento do Back-End:
-A tecnologia utilizada pelo bank-end tem sua codificação em Java com o framework Spring Boot. Os padrões Rest e a especifição do JPA, Java Persistence API, foram aplicadas em sua estrutura de código. Através dos serviços da AWS, Amazon Web Services, o banco de dados Relacional MySQL e um servidor Linux Ubuntu também instanciado em nuvem compõe e infraestrutura da aplicação.
-Um bucket ainda na AWS dispõe o Front-end que consome esta API através da biblioteca React. A codificação pode ser também acompanhada através deste link:
+A tecnologia utilizada pelo back-end tem sua codificação em Java com o framework Spring Boot. Os padrões Rest e a especifição do JPA, Java Persistence API através da tecnologia ORM do Hibernate, foram aplicadas como estrutura do código fonte. Através dos serviços da AWS, Amazon Web Services, o banco de dados Relacional MySQL e um servidor Linux Ubuntu também instanciado em nuvem compõe e infraestrutura da aplicação.
+Um bucket ainda na AWS dispõe o Front-end que consome esta API através da biblioteca React. Esta codificação pode ser também acompanhada através deste link:
 
-[<img alt="Git-Hub Project Front-End" width="200px" src="src/main/resources/img/img_logos/Github.svg" />](https://github.com/rockgustavo/Project_full_Patrim)
+[<img alt="Git-Hub Project Front-End" width="100px" src="src/main/resources/img/img_logos/Github.svg" />](https://github.com/rockgustavo/Project_full_Patrim)
 
