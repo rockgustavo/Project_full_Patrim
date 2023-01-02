@@ -10,6 +10,10 @@ Um projeto amostra para apresentar tecnologias e modelagem de dados
 
 [<img alt="Java" width="40px" src="src/main/resources/img/img_logos/Java.svg" />](https://dev.java/)
 
+[<img alt="Java" width="80px" src="src/main/resources/img/img_logos/Java.svg" />](https://dev.java/)
+
+[<img alt="Java" width="100px" src="src/main/resources/img/img_logos/Java.svg" />](https://dev.java/)
+
 ### Diagrama de Objetos
 ![Modelo](src/main/resources/img/Diagrama_objetos.PNG)
 
