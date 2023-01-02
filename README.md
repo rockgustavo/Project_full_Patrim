@@ -10,7 +10,13 @@ Um projeto amostra para apresentar tecnologias e modelagem de dados
 
 [![name](https://projects.spring.io/spring-boot/)](src/main/resources/img/img_logos/Spring.png)
 
-[<img alt="Java" width="40px" src="src/main/resources/img/img_logos/Java.svg" />](https://dev.java/)
+[<img alt="Java" width: "80px"; height: "100px"; src="src/main/resources/img/img_logos/Java.svg" />](https://dev.java/)
+
+[<img alt="Java" width: "80px"; height: "100px"; src="src/main/resources/img/img_logos/Java.svg" />](https://dev.java/)
+
+[<img alt="Java" width: "80px"; height: "100px"; target="_blank" src="src/main/resources/img/img_logos/Java.svg" />](https://dev.java/)
+
+[<img alt="Java" width: "80px" height: "100px" target="_blank" src="src/main/resources/img/img_logos/Java.svg" />](https://dev.java/)
 
 ### Diagrama de Objetos
 ![Modelo](src/main/resources/img/Diagrama_objetos.PNG)
