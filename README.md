@@ -7,7 +7,7 @@ Um projeto amostra para apresentar tecnologias e modelagem de dados
 A tecnologia utilizada pelo back-end tem sua codificação em Java com o framework Spring Boot. Os padrões Rest e a especifição do JPA, Java Persistence API através da tecnologia ORM do Hibernate, foram aplicadas como estrutura do código fonte. Através dos serviços da AWS, Amazon Web Services, o banco de dados Relacional MySQL e um servidor Linux Ubuntu também instanciado em nuvem compõe e infraestrutura da aplicação.
 Um bucket ainda na AWS dispõe o Front-end que consome esta API através da biblioteca React. Esta codificação pode ser também acompanhada através deste link:
 
-[<img alt="Git-Hub Project Front-End" width="100px" src="src/main/resources/img/img_logos/Github.svg" />](https://github.com/rockgustavo/Project_full_Patrim_React)
+[<img alt="Git-Hub Project Front-End" width="100px" src="src/main/resources/img/img_logos/Github.svg" />](http://github.com/rockgustavo/Project_full_Patrim_React)
 
 ### Front-End - Consumo da API com base no React, link de acesso:
 [<img alt="Front-End" width="300px" src="src/main/resources/img/Controle_patrimonial.PNG" />](http://rockgustavo.com.s3-website-us-east-1.amazonaws.com/)
